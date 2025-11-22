@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/HistoriaGE/static/css/main.ef04c943.css",
-    "main.js": "/HistoriaGE/static/js/main.b240ccf3.js",
+    "main.css": "/HistoriaGE/static/css/main.f97403fa.css",
+    "main.js": "/HistoriaGE/static/js/main.07ff89d6.js",
     "index.html": "/HistoriaGE/index.html",
-    "main.ef04c943.css.map": "/HistoriaGE/static/css/main.ef04c943.css.map",
-    "main.b240ccf3.js.map": "/HistoriaGE/static/js/main.b240ccf3.js.map"
+    "main.f97403fa.css.map": "/HistoriaGE/static/css/main.f97403fa.css.map",
+    "main.07ff89d6.js.map": "/HistoriaGE/static/js/main.07ff89d6.js.map"
   },
   "entrypoints": [
-    "static/css/main.ef04c943.css",
-    "static/js/main.b240ccf3.js"
+    "static/css/main.f97403fa.css",
+    "static/js/main.07ff89d6.js"
   ]
 }
