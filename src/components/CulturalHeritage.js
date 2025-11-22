@@ -7,9 +7,9 @@ const CulturalHeritage = () => {
         <h2 className="text-3xl font-extrabold text-gray-900 mb-6 text-center">Patrimonio Cultural y Reflexiones</h2>
         <div className="grid grid-cols-1 md:grid-cols-3 gap-6 mb-8">
           <div className="bg-purple-50 p-6 rounded-2xl border border-purple-200 shadow-md hover:shadow-lg transition-shadow duration-300">
-            <h3 className="font-bold text-purple-800 text-lg mb-2">Tradiciones Fang</h3>
+            <h3 className="font-bold text-purple-800 text-lg mb-2">Tradiciones</h3>
             <p className="text-gray-700 text-sm leading-relaxed">
-              La cultura Fang es rica en expresiones artísticas, destacando sus impresionantes máscaras y rituales ancestrales que forman parte esencial de su identidad.
+              Guinea Ecuatorial es rica en expresiones culturales y tradiciones ancestrales de sus diversos pueblos (Fang, Bubi, Ndowé, Annoboneses), destacando sus máscaras, danzas y rituales que forman parte esencial de su identidad nacional.
             </p>
           </div>
           <div className="bg-yellow-50 p-6 rounded-2xl border border-yellow-200 shadow-md hover:shadow-lg transition-shadow duration-300">
