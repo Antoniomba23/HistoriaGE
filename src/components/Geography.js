@@ -11,7 +11,7 @@ const sections = [
   {
     title: "Regiones y división territorial",
     image: {
-      src: "/geografia_regiones.png",
+      src: process.env.PUBLIC_URL + "/geografia_regiones.png",
       alt: "Mapa de las regiones y provincias de Guinea Ecuatorial",
       caption: "Mapa de las regiones y provincias de Guinea Ecuatorial. Fuente: Wikimedia Commons."
     },
@@ -32,7 +32,7 @@ const sections = [
   {
     title: "Islas principales y menores",
     image: {
-      src: "/bioko_sat.png",
+      src: process.env.PUBLIC_URL + "/bioko_sat.png",
       alt: "Imagen satelital de la isla de Bioko",
       caption: "Imagen satelital de Bioko. Fuente: NASA Landsat, Wikimedia Commons."
     },
@@ -78,7 +78,7 @@ const sections = [
   {
     title: "Mapas y localización",
     image: {
-      src: "/localizacion_ge.png",
+      src: process.env.PUBLIC_URL + "/localizacion_ge.png",
       alt: "Mapa de localización de Guinea Ecuatorial en África",
       caption: "Localización de Guinea Ecuatorial en África. Fuente: Wikimedia Commons."
     },
@@ -99,7 +99,7 @@ const sections = [
   {
     title: "Datos geográficos destacados",
     image: {
-      src: "/pico_basile.png",
+      src: process.env.PUBLIC_URL + "/pico_basile.png",
       alt: "Vista de Pico Basile desde Malabo, Guinea Ecuatorial",
       caption: "Vista de Pico Basile desde Malabo. Fuente: Wikimedia Commons."
     },
@@ -163,4 +163,4 @@ export default function Geography() {
       </div>
     </div>
   );
-} 
+}
